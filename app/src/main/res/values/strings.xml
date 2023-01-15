@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoRoutineTester</string>
+    <string name="login">Login</string>
+    <string name="to_sign_up">To Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="to_login_up">To Login Up</string>
+    <string name="log_out">Logout</string>
+    <string name="delete_user">Delete User</string>
+</resources>
