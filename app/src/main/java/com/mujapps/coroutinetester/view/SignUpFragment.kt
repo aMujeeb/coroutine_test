@@ -72,7 +72,7 @@ class SignUpFragment : Fragment(), View.OnClickListener {
                 Toast.makeText(requireContext(), "Please Fill all fields..!!!", Toast.LENGTH_SHORT)
                     .show()
             } else {
-                mSignUpViewModel.singUp(userName, password)
+                mSignUpViewModel.singUp(userName, password, otherInfo)
             }
         }
     }
